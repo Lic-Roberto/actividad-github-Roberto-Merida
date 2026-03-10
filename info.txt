@@ -1,0 +1,12 @@
+info.txt
+Nombre del alumno:
+Roberto Jesus Merida Cazares
+
+Fecha :
+10/03/2026
+
+Objetivo de la actividad:
+Que el alumno practique el flujo completo de trabajo en GitHub partiendo desde cero: crear un repositorio nuevo, clonarlo, trabajar en una rama, realizar cambios y generar un Pull Request (PR).
+
+Qué es un Pull Request (definición breve):
+Un Pull Request (PR) es una solicitud formal en plataformas como GitHub o GitLab (donde se conoce como Merge Request) para integrar cambios de código de una rama a otra. Actúa como un espacio colaborativo para revisar, discutir y aprobar modificaciones antes de fusionarlas con la rama principal. 
